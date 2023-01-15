@@ -12,6 +12,7 @@ function myFunction (a,b) {
 myFunction (5,2);
 
 
+
 //Task2(a)
  
 function findQuarter (x,y) {
